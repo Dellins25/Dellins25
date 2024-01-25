@@ -17,7 +17,7 @@
  
 <br>
  
-### Me segue nas redes abaixo!
+### Se poder, me segue no Linkedin pra me ajudar a conseguir uma vaga de emprego 🫶!
  
 <div> 
   <a href="https://www.linkedin.com/in/delcleciano-lins-7a6201259/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
